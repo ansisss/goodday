@@ -65,6 +65,6 @@
 
         @endforeach
     @else
-    <p>No Posts found</p>
+    <p>Reklāmas nav atrastas!</p>
     @endif
 @endsection
