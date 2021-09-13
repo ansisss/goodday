@@ -50,7 +50,8 @@
     </div>
 
     <div class="form-group">
-        {{Form::label('body', 'Body')}}
+        <br/>
+        {{Form::label('body', 'Kredīta apraksts')}}
         {{Form::textarea('body', $post->body, ['id' => 'article-ckeditor','class' => 'form-control', 'placeholder' => 'Body text'])}}
     </div>
     <div class="'form-group">
