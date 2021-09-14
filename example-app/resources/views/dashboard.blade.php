@@ -8,7 +8,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    <a href="/posts/create" class="btn btn-primary">Create Post</a>
+                    <a href="/posts/create" class="btn btn-primary">Izveidot reklāmu</a>
                     <h3>Jūsu reklāmu saraksts</h3>
 
                     @if(count($posts) > 0)
